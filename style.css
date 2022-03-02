@@ -153,6 +153,7 @@ section{
     transform: translateX(-50%);
 }
 .about .about-content .left{
+    font-family: "League gothic", sans-serif;
     font-size: 18px;
     font-weight: 200;
     border-radius: 6px;
@@ -175,7 +176,7 @@ section{
 
 /*THICC SECTION STYLING*/
 .thicc{
-    color: #ec9dfc;
+    color: rgb(236, 227, 234);
     background: #111;
 }
 .thicc .title{
